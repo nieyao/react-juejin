@@ -24,11 +24,6 @@
 
 ## 运行项目
 
-因前后端不同端口原因，为解决跨域。前端工程启动了devServer，需先启动后端工程
-
-* git clone https://github.com/zhoushaw/Instagram.git
-* cd Instagram
-
 > 运行后端项目
 
 * 请确保本地已装mysql，并配置全局变量
