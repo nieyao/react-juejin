@@ -12,14 +12,6 @@
 
 前后端分离开发模式，前端项目与后端项目属于不同的工程
 
-```javascript
-// instagram/client 前端工程
-// instagram/service 后端工程
-```
-
-
-
-
 
 
 ## 运行项目
@@ -30,7 +22,6 @@
 * mysql -u root -p 并输入数据库密码
 * create database learn; 创建learn数据库
 * use learn;  切换数据库
-* source learn.sql的路径; 例如：source /Users/shawzhou/Desktop/learning/instagram/db/learn.sql;
 * 配置egg.js连接数据库信息
 
 ```javascript
@@ -72,6 +63,3 @@ config.sequelize = {
 - [X] 上传头像  -- 完成
 - [X] 发帖  -- 完成
 - [X] 收藏  -- 未完成
-
-
-> 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^_^
