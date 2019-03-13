@@ -21,7 +21,7 @@ import { connect } from "react-redux";
         }
     }
 )
-class Intagram extends React.Component {
+class App extends React.Component {
     constructor(props) {
         super(props);
     }
@@ -43,4 +43,4 @@ class Intagram extends React.Component {
         )
     }
 }
-export default Intagram
+export default App
